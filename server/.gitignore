@@ -1,0 +1,47 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Dependency directory
+node_modules/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Coverage directory
+coverage/
+
+# Build output
+dist/
+build/
+
+# Local environment files
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Nodemon files
+nodemon-debug.log
+
+# OS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
