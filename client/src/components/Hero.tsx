@@ -82,7 +82,7 @@ export function Hero() {
                 variant="outline"
                 size="lg"
                 className="rounded-xl"
-                onClick={() => window.open('.././public/resume-file/cv.pdf', '_blank')}
+                onClick={() => window.open('/resume-file/MadhusudanNarwadiya.pdf', '_blank')}
               >
                 <Download className="mr-2 h-4 w-4" />
                 Download Resume

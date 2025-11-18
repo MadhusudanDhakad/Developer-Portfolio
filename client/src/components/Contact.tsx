@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion } from 'motion/react';
-import { Send, Mail, Github, Linkedin, Twitter, CheckCircle2, AlertCircle } from 'lucide-react';
+import { Send, Mail, Github, Linkedin, Twitter, Instagram, Facebook, CheckCircle2, AlertCircle } from 'lucide-react';
 import { Button } from './ui/button';
 import { Input } from './ui/input';
 import { Textarea } from './ui/textarea';
@@ -62,6 +62,18 @@ export function Contact() {
       label: 'Email',
       url: 'mailto:msddhakdad444@gmail.com',
       color: 'hover:text-red-500'
+    },
+    {
+      icon: Instagram,
+      label: 'Instagram',
+      url: 'https://www.instagram.com/madhusudan_dhakad_art/',
+      color: 'hover:text-pink-700'
+    },
+    {
+      icon: Facebook,
+      label: 'Facebook',
+      url: 'https://www.facebook.com/Atist.MSdhakad/',
+      color: 'hover:text-blue-500'
     }
   ];
 
