@@ -47,7 +47,7 @@ export function Projects() {
     {
       title: 'Weather Forecasting Application',
       description: 'A sleek and intuitive Weather App that fetches real-time data from a weather API, displaying current conditions and forecasts using HTML, CSS, and JavaScript for a seamless user experience.',
-      image: '/project-images/WeatherForeCast.png',
+      image: '/project-images/WeatherForecast.png',
       tags: ['Javascript', 'HTML', 'CSS', 'Git', 'Vercel'],
       liveUrl: 'https://madhusudandhakad.github.io/Weather-App/',
       codeUrl: 'https://github.com/MadhusudanDhakad/Weather-App'
