@@ -101,7 +101,7 @@ export function Hero() {
               <div className="absolute inset-0 bg-gradient-to-br from-blue-500 to-emerald-500 rounded-3xl blur-3xl opacity-20" />
               <div className="relative w-64 h-64 md:w-80 md:h-80 rounded-3xl bg-gradient-to-br from-blue-500/10 to-emerald-500/10 border border-border/50 flex items-center justify-center overflow-hidden">
                 <ImageWithFallback
-                  src=".././public/profile-images/profilePicture.jpg"
+                  src="/profile-images/profilePicture.jpg"
                   alt="Madhusudan Narwadiya"
                   className="w-full h-full object-cover"
                 />

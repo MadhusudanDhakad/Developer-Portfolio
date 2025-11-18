@@ -15,7 +15,7 @@ export function Projects() {
     {
       title: 'TechTrends Learning Ed-Tech Platform',
       description: 'TechTrends Learning is a comprehensive educational technology platform that allows users to generate, access, and evaluate learning materials.',
-      image: '.././public/project-images/TechTrends-Learning.png',
+      image: '/project-images/TechTrends-Learning.png',
       tags: ['React', 'Node.js', 'MongoDB', 'Express', 'JWT', 'Redux-Toolkit', 'Tailwind'],
       liveUrl: 'https://techtrends-edtech-project.vercel.app/',
       codeUrl: 'https://github.com/MadhusudanDhakad/TechTrends-Edtech-Project'
@@ -23,7 +23,7 @@ export function Projects() {
     {
       title: 'ParuMakeOver - Makeup Artist App',
       description: 'Collaborative task management application with real-time updates, team collaboration, and analytics.',
-      image: '.././public/project-images/ParuMakeover.png',
+      image: '/project-images/ParuMakeover.png',
       tags: ['React', 'Express', 'MongoDB', 'Socket.io', 'Zustand'],
       liveUrl: '#',
       codeUrl: '#'
@@ -31,7 +31,7 @@ export function Projects() {
     {
       title: 'Developer Portfolio',
       description: 'I build scalable, user-focused web applications with React, Node, and MongoDB. Passionate about creating exceptional digital experiences through clean code and modern technologies.',
-      image: '.././public/project-images/developerPortfolio.png',
+      image: '/project-images/developerPortfolio.png',
       tags: ['React', 'Node.js', 'MongoDB', 'Express.js', 'REST API'],
       liveUrl: '#',
       codeUrl: '#'
@@ -39,7 +39,7 @@ export function Projects() {
     {
       title: 'Library Management',
       description: 'The Library Management System is a full-stack web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js), designed to manage library operations efficiently. The system provides an intuitive interface for admins and users to handle book-related activities seamlessly.',
-      image: '.././public/project-images/LibraryManagement.png',
+      image: '/project-images/LibraryManagement.png',
       tags: ['React', 'Express', 'MongoDB', 'Node'],
       liveUrl: 'https://library-management-system-eta-ten.vercel.app/',
       codeUrl: 'https://github.com/MadhusudanDhakad/library-management-system'
@@ -47,7 +47,7 @@ export function Projects() {
     {
       title: 'Weather Forecasting Application',
       description: 'A sleek and intuitive Weather App that fetches real-time data from a weather API, displaying current conditions and forecasts using HTML, CSS, and JavaScript for a seamless user experience.',
-      image: '.././public/project-images/WeatherForeCast.png',
+      image: '/project-images/WeatherForeCast.png',
       tags: ['Javascript', 'HTML', 'CSS', 'Git', 'Vercel'],
       liveUrl: 'https://madhusudandhakad.github.io/Weather-App/',
       codeUrl: 'https://github.com/MadhusudanDhakad/Weather-App'
