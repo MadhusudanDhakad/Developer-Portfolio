@@ -24,7 +24,7 @@ export function Projects() {
       title: 'ParuMakeOver - Makeup Artist App',
       description: 'Collaborative task management application with real-time updates, team collaboration, and analytics.',
       image: '/project-images/ParuMakeover.png',
-      tags: ['React', 'Express', 'MongoDB', 'Socket.io', 'Zustand'],
+      tags: ['Next.js', 'Node', 'Express', 'MongoDB', 'Figma'],
       liveUrl: '#',
       codeUrl: '#'
     },
@@ -32,7 +32,7 @@ export function Projects() {
       title: 'Developer Portfolio',
       description: 'I build scalable, user-focused web applications with React, Node, and MongoDB. Passionate about creating exceptional digital experiences through clean code and modern technologies.',
       image: '/project-images/developerPortfolio.png',
-      tags: ['React', 'Node.js', 'MongoDB', 'Express.js', 'REST API'],
+      tags: ['React', 'Typescript', 'Node', 'MongoDB', 'Express.js', 'REST API', 'Tailwind'],
       liveUrl: '#',
       codeUrl: '#'
     },

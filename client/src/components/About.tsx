@@ -54,8 +54,8 @@ export function About() {
               className="space-y-4"
             >
               <p className="text-foreground/80">
-                I'm a passionate Full Stack Developer specializing in the MERN stack with over 3 years of experience
-                building modern web applications. I focus on creating scalable, performant, and user-friendly solutions
+                I'm a passionate Full Stack Developer specializing in the MERN stack with experience
+                building modern web applications and also have a strong foundation in C++. I focus on creating scalable, performant, and user-friendly solutions
                 that solve real-world problems.
               </p>
               <p className="text-foreground/80">
