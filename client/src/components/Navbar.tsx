@@ -87,7 +87,7 @@ export function Navbar({ darkMode, setDarkMode }: NavbarProps) {
           <Button
             variant="outline"
             className="hidden md:inline-flex rounded-xl"
-            onClick={() => window.open('.././public/resume-file/cv.pdf', '_blank')}
+            onClick={() => window.open('.././public/resume-file/MadhusudanNarwadiya.pdf', '_blank')}
           >
             Resume
           </Button>
